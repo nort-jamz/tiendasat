@@ -13,4 +13,4 @@ $_['text_account'] 	=  'Mi cuenta';
 $_['text_order'] 	=  'Historial de pedidos';
 $_['text_wishlist'] 	=  'Lista de deseos';
 $_['text_newsletter'] 	=  'Hoja informativa';
-$_['text_powered'] 	=  'Desarrollado por Jaime Castro / <a href="http://www.opencart.com"> OpenCart </a> <br /> %s & copy; S';
+$_['text_powered'] 	=  'Desarrollado para <a target="_blank" href="http://www.nortconsulting.com"> NortConsulting </a> <br /> %s &copy; %s';
