@@ -612,9 +612,11 @@ h2.price {
 }
 .product-thumb .price {
 	color: #444;
+	font-size: 20px;
 }
 .product-thumb .price-new {
 	font-weight: 600;
+	font-size: 20px;
 }
 .product-thumb .price-old {
 	color: #999;
